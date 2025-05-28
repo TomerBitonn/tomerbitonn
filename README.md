@@ -7,10 +7,7 @@ I love learning new technologies and turning ideas into real projects.
 
 ## 🧠 About Me
 - 🎓 Computer Science student at HIT  
-- 💻 Full stack experience with both frontend and backend technologies  
-- 🕹️ Built a fully functional 2D game using Python and Pygame  
-- 🌐 Developed and deployed a professional business website using Flask & AWS  
-- 📚 Completed courses on Bash scripting and Git + GitHub fundamentals  
+- 💻 Full stack experience with both frontend and backend technologies   
 - 🛠️ Passionate about DevOps tools and automation  
 - 💬 Constantly learning and exploring new things
 
