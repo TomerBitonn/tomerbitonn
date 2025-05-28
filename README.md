@@ -55,6 +55,7 @@ Through this project, I gained hands-on experience in front-end and back-end dev
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomerbiton)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomerbitonn)
+
 📧 **Email:** [tomerbiton2@gmail.com](mailto:tomerbiton2@gmail.com)
 
 
