@@ -1,6 +1,6 @@
 # Hi, I'm Tomer! 👋
 
-I'm a Computer Science student with a passion for software development, automation, and building cool things.  
+A Computer Science student with a passion for software development, automation, and building cool things.  
 I love learning new technologies and turning ideas into real projects.
 
 ---
