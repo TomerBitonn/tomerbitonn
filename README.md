@@ -45,7 +45,7 @@ The game includes a real-time game loop, collision detection, event handling, sc
 As a self-initiated project, I built a complete website from scratch for my family’s carpentry business using **HTML**, **CSS**, **JavaScript**, and **Flask** (Python).  
 I deployed it on an **AWS EC2** instance, configured a custom domain via **Route 53** with **HTTPS** support, and ensured full responsiveness across devices.  
 The site includes a **contact form**, **accessibility widget**, and **legal pages**.  
-Through this project, I gained hands-on experience in front-end and back-end development, cloud deployment, and full-stack web hosting - building a real product end-to-end while independently learning each technology
+Through this project, I gained hands-on experience in front-end and back-end development, cloud deployment, and full-stack web hosting - building a real product end-to-end while independently learning each technology.
 
 ---
 ## 📫 Let's Connect
