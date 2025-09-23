@@ -5,12 +5,13 @@ I love learning new technologies and turning ideas into real projects.
 
 ---
 
-### 📫 Contact
+## 📫 Contact
 <p align="left">
   <a href="mailto:tomerbiton2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border:none;" />
-  </a><a href="https://www.linkedin.com/in/tomerbiton">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="border:none;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border:none; vertical-align:middle;" />
+  </a>
+  <a href="https://www.linkedin.com/in/tomerbiton">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="border:none; vertical-align:middle;" />
   </a>
 </p>
 
@@ -18,7 +19,7 @@ I love learning new technologies and turning ideas into real projects.
 
 ## 🧠 About Me
 - 🎓 Computer Science student at HIT  
-- 💻 Full stack experience with both frontend and backend technologies   
+- 💻 Full Stack experience with both frontend and backend technologies   
 - 🛠️ Passionate about DevOps tools and automation  
 - 💬 Constantly learning and exploring new things
 
