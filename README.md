@@ -9,8 +9,7 @@ I love learning new technologies and turning ideas into real projects.
 <p align="left">
   <a href="mailto:tomerbiton2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border:none;" />
-  </a>
-  <a href="https://www.linkedin.com/in/tomerbiton">
+  </a><a href="https://www.linkedin.com/in/tomerbiton">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="border:none;" />
   </a>
 </p>
