@@ -13,13 +13,15 @@ I love learning new technologies and turning ideas into real projects.
 
 ---
 
-## 💻 Programming Languages
+## 💻 Programming Languages & Frameworks
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
@@ -35,23 +37,14 @@ I love learning new technologies and turning ideas into real projects.
 
 ---
 
-## 🚀 Projects
-
-### 🕹️ 2D Game Built with Python and Pygame  
-Built a fully functional 2D game using **Python** and the **Pygame** library, applying Object-Oriented Programming (OOP) principles.  
-The game includes a real-time game loop, collision detection, event handling, scoring system, and keyboard input - covering all the core parts of an interactive game.
-
-### 🌐 Website for Refael Designs - Family Carpentry Business  
-As a self-initiated project, I built a complete website from scratch for my family’s carpentry business using **HTML**, **CSS**, **JavaScript**, and **Flask** (Python).  
-I deployed it on an **AWS EC2** instance, configured a custom domain via **Route 53** with **HTTPS** support, and ensured full responsiveness across devices.  
-The site includes a **contact form**, **accessibility widget**, and **legal pages**.  
-Through this project, I gained hands-on experience in front-end and back-end development, cloud deployment, and full-stack web hosting - building a real product end-to-end while independently learning each technology.
-
----
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomerbiton)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomerbitonn)
 
 📧 **Email:** [tomerbiton2@gmail.com](mailto:tomerbiton2@gmail.com)
 
+---
 
+## 📊 GitHub Stats
+![Tomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomerbitonn&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomerbitonn&layout=compact&theme=radical)
