@@ -20,8 +20,8 @@ I love learning new technologies and turning ideas into real projects.
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
@@ -37,14 +37,18 @@ I love learning new technologies and turning ideas into real projects.
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomerbiton)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomerbitonn)
+## 📊 GitHub Stats
 
-📧 **Email:** [tomerbiton2@gmail.com](mailto:tomerbiton2@gmail.com)
+![Tomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomerbitonn&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomerbitonn&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tomerbitonn&theme=radical&hide_border=false)  
+![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomerbitonn&theme=radical)
 
 ---
 
-## 📊 GitHub Stats
-![Tomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomerbitonn&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomerbitonn&layout=compact&theme=radical)
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomerbiton)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomerbitonn)  
+
+📧 **Email:** [tomerbiton2@gmail.com](mailto:tomerbiton2@gmail.com)
