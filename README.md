@@ -6,14 +6,8 @@ I love learning new technologies and turning ideas into real projects.
 ---
 
 ## 📫 Contact
-<p align="left">
-  <a href="mailto:tomerbiton2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border:none; vertical-align:middle;" />
-  </a>
-  <a href="https://www.linkedin.com/in/tomerbiton">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="border:none; vertical-align:middle;" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomerbiton)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomerbiton2@gmail.com)
 
 ---
 
