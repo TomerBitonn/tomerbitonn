@@ -3,7 +3,10 @@
 A Computer Science student with a passion for software development, automation, and building cool things.  
 I love learning new technologies and turning ideas into real projects.
 
-<p align="center">
+---
+
+### 📫 Contact
+<p align="left">
   <a href="mailto:tomerbiton2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -48,5 +51,10 @@ I love learning new technologies and turning ideas into real projects.
 
 ## 📊 GitHub Stats
 
-![Tomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomerbitonn&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomerbitonn&layout=compact&theme=radical&exclude_repo=AliExpress-Funnel-Analysis,Machine-Learning-Project2)  
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=tomerbitonn&show_icons=true&theme=radical" alt="Tomer's GitHub stats" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomerbitonn&layout=compact&theme=radical&exclude_repo=ACL-Injury-Analysis,AliExpress-Funnel-Analysis,Machine-Learning-Project2" alt="Top Languages" height="180"/>
+
+</div>
