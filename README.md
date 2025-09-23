@@ -8,10 +8,10 @@ I love learning new technologies and turning ideas into real projects.
 ### 📫 Contact
 <p align="left">
   <a href="mailto:tomerbiton2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border:none;" />
   </a>
   <a href="https://www.linkedin.com/in/tomerbiton">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="border:none;" />
   </a>
 </p>
 
@@ -55,6 +55,6 @@ I love learning new technologies and turning ideas into real projects.
 
   <img src="https://github-readme-stats.vercel.app/api?username=tomerbitonn&show_icons=true&theme=radical" alt="Tomer's GitHub stats" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomerbitonn&layout=compact&theme=radical&exclude_repo=ACL-Injury-Analysis,AliExpress-Funnel-Analysis,Machine-Learning-Project2" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomerbitonn&layout=compact&theme=radical&exclude_repo=ACL-Injury-Analysis,AliExpress-Funnel-Analysis,Machine-Learning-Project2,Refael-Design-Website" alt="Top Languages" height="180"/>
 
 </div>
