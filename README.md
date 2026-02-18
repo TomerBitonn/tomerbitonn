@@ -42,16 +42,3 @@ I love learning new technologies and turning ideas into real projects.
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=tomerbitonn&show_icons=true&theme=radical" alt="Tomer's GitHub stats" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomerbitonn&layout=compact&theme=radical&exclude_repo=ACL-Injury-Analysis,AliExpress-Funnel-Analysis,Machine-Learning-Project2,Refael-Design-Website" alt="Top Languages" height="180"/>
-
-</div>
