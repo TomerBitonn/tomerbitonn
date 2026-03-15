@@ -23,7 +23,7 @@
 ## 🚀 Featured Projects
 
 ### Refael Design - Portfolio Website
-[![View Project](https://img.shields.io/badge/View_Project-CLICK%20HERE-blue?style=for-the-badge&logo=github)]((https://www.refael-d.co.il/))
+[![View Project](https://img.shields.io/badge/View_Project-CLICK%20HERE-blue?style=for-the-badge&logo=github)](https://www.refael-d.co.il/)
 
 ### Rental dApp
 [![View Project](https://img.shields.io/badge/View_Project-CLICK%20HERE-blue?style=for-the-badge&logo=github)](https://github.com/TomerBitonn/Rental-dApp.git)
