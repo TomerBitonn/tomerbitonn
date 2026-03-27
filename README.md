@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomerbitonn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tomer's GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomerbitonn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tomer's GitHub Stats" />
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomerbitonn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=Jupyter%20Notebook" alt="Top Languages" />
