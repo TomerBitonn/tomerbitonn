@@ -22,6 +22,9 @@
 
 ## 🚀 Featured Projects
 
+### FixApp Lab - E-Commerce 
+[![View Project](https://img.shields.io/badge/View_Project-CLICK%20HERE-blue?style=for-the-badge&logo=github)](https://fixapp-lab-ecommerce.vercel.app/)
+
 ### Refael Design - Portfolio Website
 [![View Project](https://img.shields.io/badge/View_Project-CLICK%20HERE-blue?style=for-the-badge&logo=github)](https://www.refael-d.co.il/)
 
@@ -61,7 +64,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center">  
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomerbitonn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tomer's GitHub Stats" />
   <br/>
   <br/>
