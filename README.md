@@ -7,9 +7,7 @@
   <br>
   
   <p>
-    <a href="https://www.linkedin.com/in/tomerbiton">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+    <a href="https://www.linkedin.com/in/tomerbiton"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &nbsp; | &nbsp; 
     ✉️ <a href="mailto:tomerbiton2@gmail.com">tomerbiton2@gmail.com</a>
   </p>
