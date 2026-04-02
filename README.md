@@ -32,6 +32,9 @@
 * **[Refael Design - Portfolio](https://www.refael-d.co.il/)**
   A professional, fully responsive business portfolio website tailored for local services.
 
+* **[Rental dApp - Full-Stack Contract Management](https://github.com/TomerBitonn/Rental-dApp.git)**
+Full-stack decentralized application for managing rental agreements.
+
 * **[Connect Four Multiplayer Game](https://github.com/TomerBitonn/Connect-Four-Multiplayer.git)**
   An interactive multiplayer game showcasing real-time logic and clean architecture.
 
