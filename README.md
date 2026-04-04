@@ -38,6 +38,9 @@ Full-stack decentralized application for managing rental agreements.
 * **[Connect Four Multiplayer Game](https://github.com/TomerBitonn/Connect-Four-Multiplayer.git)**
   An interactive multiplayer game showcasing real-time logic and clean architecture.
 
+* **[Python 2D Game](https://github.com/TomerBitonn/Python-Game.git)**
+  2D Game built with Python and Pygame.
+
 ---
 
 ### ✦ Tech Stack & Tools
