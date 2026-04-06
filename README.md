@@ -1,81 +1,97 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=33&desc=Tomer%20Biton%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50" alt="Header Banner" />
-  
-  <h2>Building modern, efficient, and user-focused web applications</h2>
-  <p><i>Freelance Full Stack Developer | Computer Science Student | 2025 National Hackathon Winner</i></p>
+</div>
 
-  <br>
-  
-  <p>
-  <a href="https://www.linkedin.com/in/tomerbiton"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:tomerbiton2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<h1><img alt="Waving Hand" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="45" style="vertical-align: middle; padding-bottom: 5px;" /> Hey there! I'm Tomer Biton</h1>
+
+<br>
+
+### 👨🏻‍💻 &nbsp;About Me
+
+👨‍💻 &nbsp;I am a Freelance Full Stack Developer building modern, efficient, and user-focused web applications.<br>
+🎓 &nbsp;I hold a B.Sc. in Computer Science.<br>
+💡 &nbsp;I focus on building end-to-end applications using React, Node.js, Next.js, and TypeScript.<br>
+☁️ &nbsp;I'm currently expanding my skillset in DevOps, cloud technologies, CI/CD pipelines, and automation.<br>
+🏆 &nbsp;I am a 2025 National Hackathon Winner – I love rapidly conceptualizing and delivering creative real-world solutions.<br>
+✉️ &nbsp;You can shoot me an email at tomerbiton2@gmail.com!
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="250"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+
+### ☁️ &nbsp;Frameworks & Cloud
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+
+### 🗃 &nbsp;Databases
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+### 🧰 &nbsp;Version Control & Tools 
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=green)&nbsp;
+
+### 🚀 &nbsp;Featured Projects
+
+[![FixApp Lab](https://img.shields.io/badge/FixApp%20Lab%20--%20E--Commerce-3399ff?style=for-the-badge)](https://fixapp-lab-ecommerce.vercel.app/)&nbsp;
+[![Refael Design](https://img.shields.io/badge/Refael%20Design%20--%20Portfolio-3399ff?style=for-the-badge)](https://www.refael-d.co.il/)&nbsp;
+[![Rental dApp](https://img.shields.io/badge/Rental%20dApp%20--%20Contract%20Management-3399ff?style=for-the-badge)](https://github.com/TomerBitonn/Rental-dApp.git)&nbsp;
+[![Connect Four](https://img.shields.io/badge/Connect%20Four%20--%20Multiplayer-3399ff?style=for-the-badge)](https://github.com/TomerBitonn/Connect-Four-Multiplayer.git)&nbsp;
+[![Python Game](https://img.shields.io/badge/Python%202D%20Game%20--%20Pygame-3399ff?style=for-the-badge)](https://github.com/TomerBitonn/Python-Game.git)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/TomerBitonn"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TomerBitonn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/TomerBitonn"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TomerBitonn&layout=compact&langs_count=8&theme=algolia&hide=Jupyter%20Notebook"/></a>
 </p>
-</div>
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TomerBitonn&theme=algolia&hide_border=true"/>
+</p>
 
-### ✦ About Me
+### 🤝🏻 &nbsp;Connect with Me
 
-* 🎓 **Computer Science Student** – Deep understanding of software engineering principles and complex problem-solving.
-* 💻 **Full Stack Developer** – Focused on building end-to-end applications using `React`, `Node.js`, `Next.js`, and `TypeScript`.
-* ☁️ **Exploring DevOps** – Currently expanding my skillset in cloud technologies, CI/CD pipelines, and automation.
-* 🏆 **Hackathon Winner** – Proven ability to rapidly conceptualize, build, and deliver creative real-world solutions under pressure.
+<p align="left">
+<a href="https://www.linkedin.com/in/tomerbiton"><img src="https://img.shields.io/badge/-Tomer%20Biton-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tomerbiton2@gmail.com"><img src="https://img.shields.io/badge/-tomerbiton2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
----
+### 🐍 &nbsp;That's How Commits move 
 
-### ✦ Featured Projects
-
-* **[FixApp Lab - E-Commerce](https://fixapp-lab-ecommerce.vercel.app/)**
-  A modern, high-performance online store built for scale and optimal user experience.
-
-* **[Refael Design - Portfolio](https://www.refael-d.co.il/)**
-  A professional, fully responsive business portfolio website tailored for local services.
-
-* **[Rental dApp - Full-Stack Contract Management](https://github.com/TomerBitonn/Rental-dApp.git)**
-Full-stack decentralized application for managing rental agreements.
-
-* **[Connect Four Multiplayer Game](https://github.com/TomerBitonn/Connect-Four-Multiplayer.git)**
-  An interactive multiplayer game showcasing real-time logic and clean architecture.
-
-* **[Python 2D Game](https://github.com/TomerBitonn/Python-Game.git)**
-  2D Game built with Python and Pygame.
-
----
-
-### ✦ Tech Stack & Tools
-
-**Languages:** <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
-
-**Frameworks & Cloud:** <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS"/>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS"/>
-<img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" alt="Render"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-
-**Tools:** <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
-<img src="https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/>
-
----
-
-### ✦ GitHub Stats
-
-<div align="center">  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomerbitonn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tomer's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomerbitonn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=Jupyter%20Notebook" alt="Top Languages" />
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TomerBitonn/TomerBitonn/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TomerBitonn/TomerBitonn/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/TomerBitonn/TomerBitonn/output/github-contribution-grid-snake.svg"
+  />
+</picture>
