@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=33&desc=Tomer%20Biton%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50" alt="Header Banner" />
 </div>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="45" style="vertical-align: middle;">
-  <span style="font-size: 2em; font-weight: bold; vertical-align: middle; margin-left: 10px;">Hey there! I'm Tomer Biton</span>
-</div>
+## <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="45" align="left"> &nbsp; Hey there! I'm Tomer Biton
+
+<br clear="left"/>
+
+<!-- ## 👋&nbsp;Hey there! I'm Tomer Biton -->
 
 <br>
 
