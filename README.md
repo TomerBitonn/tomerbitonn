@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am a Freelance Software Developer building modern, efficient, and user-focused web applications.<br><br>
+👨‍💻 &nbsp;I'm a Freelance Software Engineer with a solid background in Computer Science. I love building things with code, but I'm just as passionate about what goes on behind the scenes exploring areas like Cybersecurity, Networking, and DevOps.<br><br>
 🎓 &nbsp;I hold a B.Sc. in Computer Science.<br><br>
 💡 &nbsp;I focus on building end-to-end applications using React, Node.js, Next.js, and TypeScript.<br><br>
 ☁️ &nbsp;I'm currently expanding my skillset in DevOps, cloud technologies, CI/CD pipelines, and automation.<br><br>
