@@ -8,11 +8,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am a Freelance Full Stack Developer building modern, efficient, and user-focused web applications.<br>
-🎓 &nbsp;I hold a B.Sc. in Computer Science.<br>
-💡 &nbsp;I focus on building end-to-end applications using React, Node.js, Next.js, and TypeScript.<br>
-☁️ &nbsp;I'm currently expanding my skillset in DevOps, cloud technologies, CI/CD pipelines, and automation.<br>
-🏆 &nbsp;I am a 2025 National Hackathon Winner – I love rapidly conceptualizing and delivering creative real-world solutions.<br>
+👨‍💻 &nbsp;I am a Freelance Software Developer building modern, efficient, and user-focused web applications.<br><br>
+🎓 &nbsp;I hold a B.Sc. in Computer Science.<br><br>
+💡 &nbsp;I focus on building end-to-end applications using React, Node.js, Next.js, and TypeScript.<br><br>
+☁️ &nbsp;I'm currently expanding my skillset in DevOps, cloud technologies, CI/CD pipelines, and automation.<br><br>
+🏆 &nbsp;I am a 2025 National Hackathon Winner - I love rapidly conceptualizing and delivering creative real-world solutions.<br><br>
 ✉️ &nbsp;You can shoot me an email at tomerbiton2@gmail.com!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="250"/>
